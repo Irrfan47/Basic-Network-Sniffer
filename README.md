@@ -42,7 +42,7 @@ This project uses the `scapy` library to capture and analyze network packets. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/basic-network-sniffer.git
+   https://github.com/Irrfan47/CodeAlpha_BasicNetworkSniffer.git
    cd basic-network-sniffer
 2. Install the required dependencies:
    ```bash
